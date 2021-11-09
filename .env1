@@ -1,0 +1,5 @@
+CONNECTION_STRING = mongodb+srv://arya:Welcome@2021@cluster0.mxst1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+CLOUD_NAME = technoid
+CLOUD_API_KEY = 795928644196675
+CLOUD_API_SECRET = x85YtDUrPp9mE5C7WspfwgccNP4
+API_URL = /api/v1
